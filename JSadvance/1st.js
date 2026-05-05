@@ -26,9 +26,7 @@ because of issue in block scope and functional scope
 
 // alert( 3 + 3) // we are using nodejs, not browser
 
-// console.log(3 
-    +
-    //  3) // code readability should be high for better understanding of code by other developers
+// console.log(3 + 3) // code readability should be high for better understanding of code by other developers
 
 // console.log("Hitesh")
 
